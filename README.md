@@ -17,11 +17,11 @@ Aztec node not running
 
 # Right now script only checks:
 
-Whether the directory exists (/aztec or /Ethereum)
+```Whether the directory exists (/aztec or /Ethereum)```
 
-Whether the containers Up inside that directory.
+```Whether the containers Up inside that directory```
 
-That means it’s confirming the containers are up — but it does not confirm if the node is actually working properly like syncing, producing blocks, responding to RPC calls etc...
+```That means it’s confirms the containers are up — but it does not confirm if the node is actually working properly like syncing, producing blocks, responding to RPC calls etc...```
 
 ---
 
@@ -38,7 +38,8 @@ Memory Usage: 63.45% (1024MB/1613MB)
 
 ---
 
-# 3. Docker (Aztec Node)
+# 3. Docker (Aztec Node) 
+```can be helful in ur node version```
 
 If aztec directory exists + node running
 
