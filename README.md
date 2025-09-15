@@ -39,7 +39,7 @@ Memory Usage: 63.45% (1024MB/1613MB)
 ---
 
 # 3. Docker (Aztec Node) 
-```can be helful in ur node version```
+```can be helful in checking ur node version```
 
 If aztec directory exists + node running
 
