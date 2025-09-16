@@ -71,7 +71,7 @@ for PORT in 40400/tcp 40400/udp 8080 8545 3500; do
     fi
 done
 
-# Footer credit
+# credit
 echo -e "\n${MAGENTA}==============================================${RESET}"
 echo -e "       script by ♥️ Shiv@"
 echo -e "${MAGENTA}==============================================${RESET}"
